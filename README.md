@@ -2,7 +2,9 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Here are some ideas to get you started:
+<a href="https://https://www.linkedin.com/in/ccka>
+<img height="50" src="https://github.com/ken-arthur005/ken-arthur005/blob/main/linkedin.png" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
