@@ -13,8 +13,7 @@
   <img height="50" src="https://github.com/ken-arthur005/ken-arthur005/blob/main/whatsapp.png" />
 </a>
 
-<div class="tenor-gif-embed" data-postid="4081143234914914503" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/java-programming-gif-4081143234914914503">Java Programming GIF</a>from <a href="https://tenor.com/search/java-gifs">Java GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
-
+<img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/gif.gif"/>
 
 
 
