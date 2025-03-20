@@ -1,7 +1,6 @@
 <img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/linkedIN%20banner.png" />
 
-<!--
-**ken-arthur005/ken-arthur005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 Here are some ideas to get you started:
 
