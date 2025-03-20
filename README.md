@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/linkedIN%20banner.png" />
 
 <!--
 **ken-arthur005/ken-arthur005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
