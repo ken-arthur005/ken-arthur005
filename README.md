@@ -15,12 +15,14 @@
 
 <p align="center"><img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/n.gif"/></p>
 
+<h2>All About Me</h2>
+
 ```yaml
 name: Carey Churchill Ken-Arthur
 education:
   [
-    "Self-Taught Developer",
-    "Bsc.Information Technology @ Kwame NkrumaH University of Science and Technology (KNUST)"
+    "Self-Taught Developer <💻/>",
+    "Bsc.Information Technology @ Kwame NkrumaH University of Science and Technology (KNUST) 🦅"
   ]
 
 Fields or Areas of expertise, specialization and passion:
@@ -48,3 +50,20 @@ Hobbies:
     "Movies and Series 🎬"
   ]
 ```
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+![Snake animation](https://github.com/ken-arthur005/ken-arthur005/blob/output/github-contribution-grid-snake.svg)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tcr3lrry9zwwqkvajscsr1j94&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
