@@ -15,14 +15,36 @@
 
 <p align="center"><img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/n.gif"/></p>
 
+```yaml
+name: Carey Churchill Ken-Arthur
+education:
+  [
+    "Self-Taught Developer",
+    "Bsc.Information Technology @ Kwame NkrumaH University of Science and Technology (KNUST)"
+  ]
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fields or Areas of expertise, specialization and passion:
+  [
+    "Web Development",
+    "Mobile App Development,
+    "UI/UX Design",
+    "Video Editing",
+    "Graphic Design",
+    "AI/ML"
+  ]
+Technical Background:
+  [
+    "Frontend",
+    "Backend",
+    "FullStack",
+    "DevOps",
+  ]
+Hobbies:
+  [
+    "Football ⚽",
+    "Anime ✨",
+    "Video Games 🎮"
+    "Music 🎵🎶"
+    "Movies and Series 🎬"
+  ]
+```
