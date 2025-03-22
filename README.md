@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://github.com/ken-arthur005/ken-arthur005/blob/main/n.gif"/></p>
 
-<h2>All About Me</h2>
+<h2>All About Me.... 🤷‍♂️</h2>
 
 ```yaml
 name: Carey Churchill Ken-Arthur
@@ -64,6 +64,6 @@ Hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/ken-arthur005/ken-arthur005/blob/output/github-contribution-grid-snake.svg)
 
+<h2>What I'm currently listening to.... 🎧</h2>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tcr3lrry9zwwqkvajscsr1j94&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
